@@ -1,1 +1,1 @@
-# zenity-linux-updater
+# Zenity Linux Updater
